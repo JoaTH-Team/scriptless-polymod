@@ -9,7 +9,7 @@
   "contributors": ["MasterEric", "larsiusprime"],
   "dependencies": {
     "thx.semver": "",
-    "jsonpath": "",
+    "jsonpath": "git:https://github.com/EliteMasterEric/jsonpath.git",
     "jsonpatch": ""
   }
 }
