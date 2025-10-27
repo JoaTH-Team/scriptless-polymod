@@ -9,6 +9,7 @@
   "contributors": ["MasterEric", "larsiusprime"],
   "dependencies": {
     "thx.semver": "",
+    "thx.core": "git:https://github.com/fponticelli/thx.core.git",
     "jsonpath": "git:https://github.com/EliteMasterEric/jsonpath.git",
     "jsonpatch": ""
   }
